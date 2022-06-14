@@ -178,7 +178,7 @@ MainUI2.BackgroundTransparency = Vector2.new(0.3)
 
 UICorner.Parent = MainUI
 
-Laoding.Name = "Loading..."
+Laoding.Name = "Laoding..."
 Laoding.Parent = MainUI
 Laoding.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Laoding.BackgroundTransparency = 1.000
